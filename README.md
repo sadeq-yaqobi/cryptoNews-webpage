@@ -1,13 +1,11 @@
 # cryptoNews-webpage
-![previewImage](assets/images/crypto-news-preview-01.png) 
-![previewImage](assets/images/crypto-news-preview-02.png)
-![previewImage](assets/images/crypto-news-preview-03.png)
-![previewImage](assets/images/crypto-news-preview-04.png)
-![previewImage](assets/images/crypto-news-preview-05.png)
-![previewImage](assets/images/crypto-news-preview-06.png)
-![previewImage](assets/images/crypto-news-preview-07.png)
 
 This is my second project aimed at practicing and improving my skills in web development. The project is a simple web application that displays the latest news and updates in the cryptocurrency market. It utilizes HTML, CSS, and JavaScript, and fetches data from the CoinGecko API.
+
+## Website
+
+Check out the live version of this project [here](https://sadeq-yaqobi.github.io/cryptoNews-webpage).
+
 
 ## About the Project
 
