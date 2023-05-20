@@ -4,7 +4,7 @@ This is my second project aimed at practicing and improving my skills in web dev
 
 ## Website
 
-Check out the live version of this project [here](https://sadeq-yaqobi.github.io/cryptoNews-webpage)[:target="_blank"].
+Check out the live version of this project [here](https://sadeq-yaqobi.github.io/cryptoNews-webpage){target="_blank"}.
 
 
 
