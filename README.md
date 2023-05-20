@@ -7,6 +7,7 @@ This is my second project aimed at practicing and improving my skills in web dev
 Check out the live version of this project [here](https://sadeq-yaqobi.github.io/cryptoNews-webpage){:target="_blank"}.
 
 
+
 ## About the Project
 
 The project is designed to help me learn and practice web development skills, including HTML, CSS, and JavaScript. It also serves as an introduction to working with APIs, as I use the CoinGecko API to fetch the latest news articles.
